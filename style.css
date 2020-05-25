@@ -5,9 +5,9 @@ body {
 }
 
 h1 {
-  text-align: center;
+  color: red;
 }
 
-p#details {
-  color: red;
+h1 {
+  text-align: center;
 }
